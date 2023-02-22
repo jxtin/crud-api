@@ -18,3 +18,19 @@ Library - Gin Gonic
 - Delete a book - DELETE /book (bookid in the body)
 
 createdatabase.ipynb - contains the code to create and populate the collection
+
+
+## Deployed on Replit
+
+https://replit.com/@jxt1n/crud-api
+
+https://crud-api.jxt1n.repl.co/
+
+
+## How to run locally
+add a .env file with the following variables
+```
+MONGO_ID = <your id to access database>
+MONGO_PASSWORD = <your password to access database>
+```
+both these are also sent in the email:)
